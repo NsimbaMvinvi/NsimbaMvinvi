@@ -1,4 +1,3 @@
-<!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Nsimba!
 👩🏻‍💻 Data Scientist sharing about my journey and learnings in tech<br/>
