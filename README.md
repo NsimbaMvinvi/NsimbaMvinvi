@@ -13,5 +13,5 @@
 
 ---
 
-La visualización es el lenguaje de la ciencia de datos—yo la uso para contar historias con datos (porftolio).
+Some of my favorite data viz projects — take a look!(porfolio)().
 ## 🔧 Mis Proyectos
