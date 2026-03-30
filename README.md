@@ -13,6 +13,6 @@
 
 ---
 
-Some of my favorite data viz projects — take a look![porfolio](https://nsimbamvinvi.com/).
+Some of my favorite data viz projects — take a look! [porfolio](https://nsimbamvinvi.com/).
 
 ## 🔧 ML Projects
